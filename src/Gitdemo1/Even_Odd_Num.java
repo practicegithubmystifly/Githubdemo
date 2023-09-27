@@ -8,6 +8,7 @@ public class Even_Odd_Num
             System.out.println(" is even.");
         } else {
             System.out.println(" is odd.");
+            System.out.println("hii");
         }
         
   
